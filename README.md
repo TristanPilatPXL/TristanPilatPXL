@@ -10,6 +10,6 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/TristanPilatPXL"><img src="https://github-readme-stats.vercel.app/api?username=TristanPilatPXL&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true" alt="TristanPilatPXL's GitHub stats" /></a>
+<a href="http://www.github.com/TristanPilatPXL"><img src="https://github-readme-stats.vercel.app/api?username=TristanPilatPXL&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true" alt="TristanPilatPXL's GitHub stats" /></a>
 
-<a href="http://www.github.com/TristanPilatPXL"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TristanPilatPXL&stroke=ffffff&background=181824&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/TristanPilatPXL"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TristanPilatPXL&stroke=ffffff&background=181824&ring=64748b&fire=64748b&currStreakNum=ffffff&currStreakLabel=64748b&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
